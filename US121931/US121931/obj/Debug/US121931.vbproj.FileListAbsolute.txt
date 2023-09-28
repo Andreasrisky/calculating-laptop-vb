@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US121931\US121931\bin\Debug\US121931.exe.config
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US121931\US121931\obj\Debug\US121931.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US121931\US121931\obj\Debug\US121931.AA.resources
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US121931\US121931\obj\Debug\US121931.Resources.resources
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US121931\US121931\obj\Debug\US121931.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US121931\US121931\obj\Debug\US121931.xml
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US121931\US121931\bin\Debug\US121931.exe
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US121931\US121931\bin\Debug\US121931.pdb
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US121931\US121931\bin\Debug\US121931.xml
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US121931\US121931\obj\Debug\US121931.exe
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US121931\US121931\obj\Debug\US121931.pdb
+D:\sem6\suka\PROJECT\Visual Basic\menghitung harga laptop\US121931\US121931\bin\Debug\US121931.exe.config
+D:\sem6\suka\PROJECT\Visual Basic\menghitung harga laptop\US121931\US121931\obj\Debug\US121931.exe
+D:\sem6\suka\PROJECT\Visual Basic\menghitung harga laptop\US121931\US121931\obj\Debug\US121931.xml
+D:\sem6\suka\PROJECT\Visual Basic\menghitung harga laptop\US121931\US121931\obj\Debug\US121931.pdb
